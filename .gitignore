@@ -1,0 +1,7 @@
+
+node_modules/
+./worldRes/node_modules
+./worldBackEnd/node_modules
+worldBackEnd/node_modules
+
+worldRes/node_modules
